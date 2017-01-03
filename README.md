@@ -1,3 +1,3 @@
 # hello-world
 
-Testing committing
+Testing committing.
